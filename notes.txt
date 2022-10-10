@@ -1,0 +1,14 @@
+to create basic react app with all the necessary functionalities to start writing code
+* 'npx create-react-app todo'
+* run the react app using - 'npm start'
+
+EXPORT Can be done in two ways
+* Normal export- where we can export how much we want
+   
+   export arr- 
+   import {arr} from './filepath'
+    
+* export default - Only in one file
+    export default comp
+
+    import comp from "./filepath"
